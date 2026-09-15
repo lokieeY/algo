@@ -2,5 +2,5 @@
 using namespace std;
 int main()
 {
-    cout<<"jungle";
+    cout<<"jungle jungle baat chli h ";
 }
