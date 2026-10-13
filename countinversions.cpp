@@ -49,7 +49,7 @@ int mergesort(vector<int> &arr,int s,int e)
 }
 int main()
 {
-    vector<int> arr={1,5,4,8,10,2,6,9,12,11,3,7};
+    vector<int> arr={3,7,10,14,18,19,2,11,16,17,23,25};
     int s=0,e=arr.size()-1;
     int ans=mergesort(arr,s,e);
     cout<<"Number of inversions : "<<ans<<endl;
